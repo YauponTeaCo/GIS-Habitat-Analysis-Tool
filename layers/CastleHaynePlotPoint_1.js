@@ -1,0 +1,1 @@
+var json_CastleHaynePlotPoint_1 = {"type":"FeatureCollection","name":"CastleHaynePlotPoint_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"castle":null},"geometry":{"type":"Point","coordinates":[-77.920615521616483,34.33211756208911]}}]}
